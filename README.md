@@ -23,8 +23,7 @@ Your updated site should have the following content:
 
 #### Design
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+Site should look "polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 
@@ -37,10 +36,10 @@ the default bootstrap theme or an unstyled HTML site.
 
 <br>
 
-![Application Screenshot to be Updated](Assets\AppScreenshot.png)
+![App Screenshot](Assets\AppScreenshot.png)
 
 <br>
 
  ## To view my App, please click on the link below
 
-[Portfolio App]()
+[Portfolio App](https://amybaguio.github.io/Portfolio/)
