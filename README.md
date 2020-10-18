@@ -37,7 +37,7 @@ the default bootstrap theme or an unstyled HTML site.
 
 <br>
 
-![Application Screenshot to be Updated]()
+![Application Screenshot to be Updated](Assets\AppScreenshot.png)
 
 <br>
 
