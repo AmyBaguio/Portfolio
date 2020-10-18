@@ -36,7 +36,7 @@ the default bootstrap theme or an unstyled HTML site.
 
 <br>
 
-![App Screenshot](Assets\AppScreenshot.png)
+![App Screenshot](./Assets/AppScreenshot.png)
 
 <br>
 
